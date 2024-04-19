@@ -1,4 +1,4 @@
-
+alert("Would you like to play the game?")
 const questions = [
     {
         question: "What is the correct syntax to declare a variable in Javascript",
