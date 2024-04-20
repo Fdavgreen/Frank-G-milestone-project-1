@@ -1,4 +1,4 @@
-//alert("Would you like to play the game?")
+alert("Would you like to play the game?")
 const questions = [
     {
         question: "What tag is used to define a paragraph in HTML?",
