@@ -21,10 +21,10 @@ const questions = [
     {
         question: "What keyword is used to declare a variable in JavaScript?",
         answers: [
-            {text: "variable", correct: false},
-            {text: "var", correct: true},
             {text: "let", correct: false},
-            {text: "const", correct: false}
+            {text: "var", correct: false},
+            {text: "const", correct: false},
+            {text: "all three", correct: true}
         ]
     },
     {
