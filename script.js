@@ -103,7 +103,7 @@ const questions = [
 // A) <img></img>
 // ANSWER KEYS
 
-const questionElement = document.getElementById("question");
+const questionElement = document.getElementById("question"); //get much better with using .getElementbyId
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 
@@ -167,6 +167,7 @@ function showScore(){
     nextButton.innerHTML = "Play Again"
     nextButton.style.display = "block";
 }
+
 
 function handleNextButton(){
     currentQuestionIndex++;
