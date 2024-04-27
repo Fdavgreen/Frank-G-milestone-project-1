@@ -35,3 +35,15 @@ Once you have answered all questions, the game will display a summary of your pe
 Your final score will be prominently displayed, showcasing your mastery of programming concepts.
 Additionally, you'll have the option to play the game again and challenge yourself to achieve an even higher score.
 By following these steps, you can navigate through the multiple-choice questions, click "Next" to proceed, and view your score at the end of the game. Enjoy the challenge and have fun testing your programming knowledge!
+
+ANSWER KEYS
+A) <p>
+C) color
+B) var
+C) <ul>
+A) background-color
+A) Document Object Model
+B) <a>
+B) font-size
+B) if (x == 5) {
+A) <img></img>
